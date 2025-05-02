@@ -42,7 +42,7 @@ The system is designed to interpret images like this one:
 
 ## How to Run
 
-### Open the file
+### 1. Open the file
 Use Jupyter Notebook or Google Colab to run the file reconocimiento_numeros_siete_segmentos.ipynb
 
 Example Output
