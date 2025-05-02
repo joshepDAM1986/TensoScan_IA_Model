@@ -40,8 +40,6 @@ The system is designed to interpret images like this one:
 
 ├── img # Images directory
 
-├── README.md # This file
-
 ## ▶️ How to Run
 
 1. 📂 Open the file:  
