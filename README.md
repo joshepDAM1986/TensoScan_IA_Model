@@ -46,6 +46,8 @@ The system is designed to interpret images like this one:
 ### 1. Open the file
 Use Jupyter Notebook or Google Colab to run the file reconocimiento_numeros_siete_segmentos.ipynb
 
+IMPORTANT NOTE: (you need to edit the file first changing the path to your own dataset with your train and test images in your google drive account before run the notebook)
+
 ## Example Output
 The system will draw detected digits over the original image, along with visual markers and bounding boxes for each digit.
 
