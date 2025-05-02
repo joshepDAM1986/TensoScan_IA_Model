@@ -38,7 +38,7 @@ The system is designed to interpret images like this one:
 
 ├── seven-segment number recognition.ipynb # Main notebook
 
-├── sample_display.jpg # Sample image
+├── img # Images directory
 
 ├── README.md # This file
 
