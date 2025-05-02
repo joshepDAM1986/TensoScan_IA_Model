@@ -45,10 +45,10 @@ The system is designed to interpret images like this one:
 ### 1. Open the file
 Use Jupyter Notebook or Google Colab to run the file reconocimiento_numeros_siete_segmentos.ipynb
 
-Example Output
+## Example Output
 The system will draw detected digits over the original image, along with visual markers and bounding boxes for each digit.
 
-Possible Improvements
+## Possible Improvements
 - Train a machine learning model for better generalization under noisy conditions.
 - Add error handling for incomplete or damaged displays.
 - Implement real-time digit detection via webcam.
