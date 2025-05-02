@@ -6,7 +6,7 @@ This project implements a computer vision system using OpenCV and classic image 
 
 The system is designed to interpret images like this one:
 
-![display-image](seven_segment_display.jpg)
+![display-image](img/seven_segment_display.jpg)
 
 ## ✨ Key Features
 
@@ -53,6 +53,8 @@ The system is designed to interpret images like this one:
 ## ✅ Example Output
 
 The system will draw detected digits over the original image, along with visual markers and bounding boxes for each digit.
+
+![display-image](img/output_example.jpg)
 
 ## 🚀 Possible Improvements
 
