@@ -34,11 +34,12 @@ The system is designed to interpret images like this one:
 7. **Match binary pattern against digit templates**
 
 ## Project Structure
- seven_segment_digit_recognition
-├── reconocimiento_numeros_siete_segmentos.ipynb # Main notebook
+
+├── seven-segment number recognition.ipynb # Main notebook
+
 ├── sample_display.jpg # Sample image
+
 ├── README.md # This file
-├── requirements.txt # Python dependencies
 
 ## How to Run
 
